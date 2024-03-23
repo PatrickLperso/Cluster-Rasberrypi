@@ -18,7 +18,7 @@ Les coûts sont ceux auquels j'ai achété mon matériel sur LeBonCoin.
 | ------| ------|-----|-----|-----|-----|
 | Rasberry pi 4 Go RAM|Evidente|3|Le coût comprend aussi l'alimentation, les boîtiers et les cartes SD 32 Go|61.6€|185€|
 | TL-WR902AC|Communiquer avec le routeur principal en mode client |1||8€|8€|
-| Archer C50|Routeur principal connecté en filaire avec la box ethernet  |1||3€|3€|
+| Archer C50|Routeur principal connecté en filaire avec la box |1||3€|3€|
 | TL-SF-1008D 10/100Mbps|Switch pour connecter le routeur client avec les cartes en filaire  |1||3€|3€|
 | Câbles ethernet||3||1€|3€|
 | Boîte en bois|Stockage |1|Je vous conseille de chercher les boîtes pour bouteilles de vin|5€|5€|
