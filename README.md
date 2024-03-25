@@ -3,7 +3,7 @@ J'ai décidé de créer un cluster de raspberry pi. Le but de ce projet est d'av
 
 Ce repository évoluera et grandira au gré des projets et nouvelles idées : Je vais me concentrer sur la partie systèmes et réseaux pour l'instant. Je garde en tête l'idée originale du projet de tester un cluster MongoDB, ELK ou encore Kubernetes sur plusieurs noeuds.
 
-<img src="./cluster_retouche.jpg" width=800px/>
+<img src="./Images_Readme/cluster_retouche_metadat_del.JPG" width=800px/>
 
 <br/>
 
@@ -36,9 +36,14 @@ Evidemment, le débit sera dépendant des performance du routeur client et du sw
 J'ai gardé le DHCP sur le Archer C50 et j'ai associé une adresse ip fixe pour chaque interface réseau de chaque carte (y compris les interfaces wifi, c'est utile lors du setup pour savoir à qui on s'adresse).
 
 <br/>
-<img src="./reseau.svg" width=600px/>
+<img src="./Images_Readme/reseau_metadat_del.svg" width=600px/>
 
-Note : Petite erreur, les adresses ip des cartes sont 102, 104, 106.
+Notes : Petite erreur, les adresses ip des cartes sont 102, 104, 106.
+Il y a écrit TL-SF-1080D mais c'est bien évidemment TL-WR902AC et son adresse ip est X.X.X.100.
+
+Au niveau du TL-WR902AC, il faut se connecter au réseau du routeur principal et passer en mode client :
+
+<img src=".\Images_Readme\Client_configuration_metadat_del.JPG" width=600px/>
 
 <br/>
 
@@ -61,8 +66,8 @@ type $env:USERPROFILE\.ssh\id_rsa.pub | ssh X.X.X.101 "cat >> .ssh/authorized_ke
 Pour les releases de TigerVNC :
 https://github.com/TigerVNC/tigervnc/releases
 
-<img src="./TigerVNC.JPG" width=400px />
-<img src="./TigerVNC_2.JPG"  width=400px  />
+<img src="./Images_Readme/TigerVNC_metadat_del.JPG" width=400px />
+<img src="./Images_Readme/TigerVNC_2_metadat_del.JPG"  width=400px  />
 
 ## RDP
 
@@ -74,8 +79,8 @@ Attention, à bien quitter les autres terminaux (VNC et/ou ssh) pour ne pas avoi
 
 Ecran de connexion :
 
-<img src="./RDP_connection.JPG"  width=600px />
-<img src="./RDP_connection_enter.JPG"  width=600px />
+<img src="./Images_Readme/RDP_connection_metadat_del.JPG"  width=600px />
+<img src="./Images_Readme/RDP_connection_enter_metadat_del.JPG"  width=600px />
 
 
 
