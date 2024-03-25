@@ -3,7 +3,7 @@ J'ai décidé de créer un cluster de raspberry pi. Le but de ce projet est d'av
 
 Ce repository évoluera et grandira au gré des projets et nouvelles idées : Je vais me concentrer sur la partie systèmes et réseaux pour l'instant. Je garde en tête l'idée originale du projet de tester un cluster MongoDB, ELK ou encore Kubernetes sur plusieurs noeuds.
 
-<img src="./Images_Readme/cluster_retouche_metadat_del.JPG" width=800px/>
+<img src="./Images_Readme/cluster_metadat_del.JPG" width=800px/>
 
 <br/>
 
