@@ -61,8 +61,8 @@ type $env:USERPROFILE\.ssh\id_rsa.pub | ssh X.X.X.101 "cat >> .ssh/authorized_ke
 Pour les releases de TigerVNC :
 https://github.com/TigerVNC/tigervnc/releases
 
-<img src="./TigerVNC.JPG" width=200px />
-<img src="./TigerVNC_2.JPG"  width=200px  />
+<img src="./TigerVNC.JPG" width=400px />
+<img src="./TigerVNC_2.JPG"  width=400px  />
 
 ## RDP
 
@@ -73,8 +73,8 @@ sudo apt install xrdp
 Attention, à bien quitter les autres terminaux (VNC et/ou ssh) pour ne pas avoir d'écrans blancs.
 
 Ecran de connexion :
-<img src="./RDP_connection.jpg"  width=600px/>
-<img src="./RDP_connection_enter.jpg" width=600px />
+<img src="./RDP_connection.jpg"/>
+<img src="./RDP_connection_enter.jpg"/>
 
 
 
