@@ -73,8 +73,9 @@ sudo apt install xrdp
 Attention, à bien quitter les autres terminaux (VNC et/ou ssh) pour ne pas avoir d'écrans blancs.
 
 Ecran de connexion :
-<img src="./RDP_connection.jpg"/>
-<img src="./RDP_connection_enter.jpg"/>
+
+<img src="./RDP_connection.JPG"  width=600px />
+<img src="./RDP_connection_enter.JPG"  width=600px />
 
 
 
